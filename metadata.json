@@ -1,0 +1,6 @@
+{
+  "name": "WBJEE Alert",
+  "description": "Monitors the WBJEE webpage, alerts immediately on new announcements, and plays an alarm tone for counselling and notification updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
